@@ -1,0 +1,19 @@
+# Terraform
+.terraform/
+*.tfstate
+*.tfstate.*
+.terraform.lock.hcl
+
+# Lambda/build artifacts
+*.zip
+
+# AWS / secrets
+.env
+.env.*
+*.pem
+*.key
+
+# OS / editor
+.DS_Store
+.vscode/
+.idea/

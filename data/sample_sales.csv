@@ -1,0 +1,51 @@
+transaction_id,customer_id,date,account_type,transaction_type,amount,balance_after,merchant_category,risk_score,is_fraud,channel,location
+TXN1001,CUST8842,2026-01-05,Checking,Online Transfer,3600.00,5420.50,Electronics,0.12,0,Web,Lisbon
+TXN1002,CUST3311,2026-01-12,Savings,ATM Withdrawal,2000.00,12450.00,Cash,0.05,0,ATM,Porto
+TXN1003,CUST4455,2026-02-03,Checking,Debit Card,1250.00,830.20,Electronics,0.25,0,POS,Faro
+TXN1004,CUST1122,2026-02-17,Checking,Online Transfer,2700.00,150.00,Electronics,0.68,0,Mobile,Lisbon
+TXN1005,CUST9901,2026-03-08,Savings,Deposit,5400.00,32100.40,Salary,0.01,0,Branch,Braga
+TXN1006,CUST2233,2026-03-19,Checking,Debit Card,960.00,1420.10,Office Supplies,0.08,0,POS,Coimbra
+TXN1007,CUST5566,2026-04-02,Checking,Debit Card,1750.00,3100.00,Electronics,0.15,0,POS,Porto
+TXN1008,CUST7788,2026-04-15,Checking,Debit Card,800.00,95.50,Office Supplies,0.45,0,POS,Lisbon
+TXN1009,CUST3344,2026-05-04,Savings,Online Transfer,1800.00,15400.00,Electronics,0.10,0,Web,Funchal
+TXN1010,CUST1155,2026-05-21,Checking,Debit Card,1200.00,640.00,Office Supplies,0.11,0,POS,Évora
+TXN1011,CUST6677,2026-06-10,Checking,International Wire,4500.00,120.00,Electronics,0.89,1,Web,Unknown
+TXN1012,CUST8822,2026-06-22,Savings,ATM Withdrawal,2250.00,8900.25,Cash,0.30,0,ATM,Viseu
+TXN1013,CUST8842,2026-07-01,Checking,Debit Card,45.20,5375.30,Groceries,0.02,0,POS,Lisbon
+TXN1014,CUST3311,2026-07-02,Savings,Deposit,500.00,12950.00,Savings,0.01,0,ATM,Porto
+TXN1015,CUST4455,2026-07-04,Checking,Online Transfer,15.00,815.20,Utilities,0.05,0,Web,Faro
+TXN1016,CUST1122,2026-07-05,Checking,Debit Card,89.90,60.10,Restaurants,0.15,0,POS,Lisbon
+TXN1017,CUST9901,2026-07-06,Savings,ATM Withdrawal,400.00,31700.40,Cash,0.08,0,ATM,Braga
+TXN1018,CUST2233,2026-07-10,Checking,Online Transfer,120.00,1300.10,Utilities,0.03,0,Mobile,Coimbra
+TXN1019,CUST5566,2026-07-11,Checking,Debit Card,62.50,3037.50,Groceries,0.04,0,POS,Porto
+TXN1020,CUST7788,2026-07-12,Checking,Deposit,1000.00,1095.50,Cash,0.02,0,Branch,Lisbon
+TXN1021,CUST6677,2026-07-13,Checking,International Wire,8900.00,-8780.00,Luxury,0.95,1,Web,Unknown
+TXN1022,CUST8822,2026-07-15,Savings,Online Transfer,300.00,8600.25,Travel,0.12,0,Mobile,Viseu
+TXN1023,CUST8842,2026-07-18,Checking,Debit Card,12.50,5362.80,Restaurants,0.01,0,POS,Lisbon
+TXN1024,CUST3311,2026-07-20,Checking,Debit Card,150.00,2300.00,Shopping,0.10,0,POS,Porto
+TXN1025,CUST4455,2026-07-22,Checking,ATM Withdrawal,200.00,615.20,Cash,0.05,0,ATM,Faro
+TXN1026,CUST1122,2026-07-25,Checking,International Wire,500.00,-439.90,Transfer,0.72,1,Web,Unknown
+TXN1027,CUST9901,2026-07-28,Checking,Debit Card,35.00,4500.00,Groceries,0.02,0,POS,Braga
+TXN1028,CUST2233,2026-07-30,Checking,Debit Card,18.90,1281.20,Restaurants,0.01,0,POS,Coimbra
+TXN1029,CUST5566,2026-08-01,Savings,Deposit,2500.00,18500.00,Salary,0.01,0,Branch,Porto
+TXN1030,CUST7788,2026-08-02,Checking,Debit Card,1500.00,-404.50,Electronics,0.60,0,Web,Lisbon
+TXN1031,CUST3344,2026-08-03,Savings,ATM Withdrawal,100.00,15300.00,Cash,0.03,0,ATM,Funchal
+TXN1032,CUST1155,2026-08-04,Checking,Online Transfer,45.00,595.00,Utilities,0.02,0,Mobile,Évora
+TXN1033,CUST6677,2026-08-05,Checking,Debit Card,25.00,-8805.00,Groceries,0.50,0,POS,Lisbon
+TXN1034,CUST8822,2026-08-06,Savings,Deposit,150.00,8750.25,Cash,0.01,0,ATM,Viseu
+TXN1035,CUST8842,2026-08-08,Checking,Online Transfer,750.00,4612.80,Rent,0.05,0,Web,Lisbon
+TXN1036,CUST3311,2026-08-10,Savings,Online Transfer,60.00,12890.00,Entertainment,0.04,0,Mobile,Porto
+TXN1037,CUST4455,2026-08-11,Checking,Debit Card,85.40,529.80,Shopping,0.08,0,POS,Faro
+TXN1038,CUST1122,2026-08-12,Checking,Debit Card,22.10,-462.00,Groceries,0.05,0,POS,Lisbon
+TXN1039,CUST9901,2026-08-13,Savings,Online Transfer,12.00,31688.40,Entertainment,0.01,0,Web,Braga
+TXN1040,CUST2233,2026-08-14,Checking,ATM Withdrawal,50.00,1231.20,Cash,0.02,0,ATM,Coimbra
+TXN1041,CUST5566,2026-08-15,Checking,Debit Card,210.00,2827.50,Shopping,0.11,0,POS,Porto
+TXN1042,CUST7788,2026-08-16,Checking,Online Transfer,85.00,-489.50,Utilities,0.05,0,Mobile,Lisbon
+TXN1043,CUST3344,2026-08-17,Savings,Deposit,1200.00,16500.00,Salary,0.01,0,Branch,Funchal
+TXN1044,CUST1155,2026-08-18,Checking,Debit Card,14.50,580.50,Restaurants,0.02,0,POS,Évora
+TXN1045,CUST6677,2026-08-19,Checking,International Wire,15000.00,-23805.00,Luxury,0.99,1,Web,Unknown
+TXN1046,CUST8822,2026-08-20,Savings,Debit Card,42.30,8707.95,Groceries,0.03,0,POS,Viseu
+TXN1047,CUST8842,2026-08-21,Checking,Debit Card,110.00,4502.80,Shopping,0.07,0,POS,Lisbon
+TXN1048,CUST3311,2026-08-21,Savings,ATM Withdrawal,300.00,12590.00,Cash,0.08,0,ATM,Porto
+TXN1049,CUST4455,2026-08-22,Checking,Online Transfer,120.00,409.80,Transfer,0.05,0,Mobile,Faro
+TXN1050,CUST1122,2026-08-22,Checking,International Wire,3200.00,-3662.00,Luxury,0.92,1,Web,Unknown
